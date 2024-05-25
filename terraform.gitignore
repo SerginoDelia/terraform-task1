@@ -1,5 +1,5 @@
 # ignore all JSON files (replace with your key file names instead of the asterisk if you want)
-*.json
+#*.json
 
 # Local .terraform directories (contains lock files and provider info)
 **/.terraform/*
